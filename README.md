@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello All!
+  My name is Jacob Libby and I am a Junior at Wheaton College in Norton Massachusetts. I am hoping to spend more time working on passion projects and expanding my knowledge in HTML, CSS, and learning more about the field of cryptography.
+  
 
 <!--
 **JacobLibby/JacobLibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
