@@ -1,5 +1,5 @@
 ### Hello All!
-  My name is Jacob Libby and I am a Senior at Wheaton College in Norton Massachusetts. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
+  My name is Jacob Libby and I am a recent graduate from Wheaton College in Norton Massachusetts. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
   
 
 <!--
