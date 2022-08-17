@@ -4,11 +4,15 @@
  - Pronouns: he/him/his
  - I’m currently 🌱 learning Ruby, 🤿 diving deeper into Object-Oriented Programming, and 🚶exploring COBOL in my free time
  - ⚡Fun Facts⚡:
-        1) The "O" and "|" on electrical devices actually denote 0 (off) and 1 (on) in binary
-        2) The first computer bug was a moth
-        3) I still have some days that I don't believe in the Monty Hall Problem
+<ol>
+  <li>The "O" and "|" on electrical devices actually denote 0 (off) and 1 (on) in binary</li>
+  <li>The first computer bug was a moth</li>
+  <li>I still have some days that I don't believe in the Monty Hall Problem</li>
+  </ol>
         
- - 📫 Please feel free to reach out via email: jacobmlibby{at}gmail{dot}com
+ <br>
+ 
+ <b>📫 Please feel free to reach out via email: jacobmlibby{at}gmail{dot}com </b>
 
 <!--
 **JacobLibby/JacobLibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
