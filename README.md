@@ -2,7 +2,7 @@
   My name is Jacob Libby and I am a recent graduate from Wheaton College in Norton Massachusetts. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
 
  - Pronouns: he/him/his
- - I’m currently 🌱 learning Ruby & React, 🤿 diving deeper into Object-Oriented Programming, and 🚶exploring COBOL in my free time
+ - I’m currently 🌱 learning Ruby & React and am planning a D&D campaign, 🤿 diving deeper into creating a Python course, and 🚶exploring COBOL in my free time
  - ⚡Fun Facts⚡:
 <ol>
   <li>The "O" and "|" on electrical devices actually denote 0 (off) and 1 (on) in binary</li>
