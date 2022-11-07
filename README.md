@@ -7,7 +7,7 @@
 <ol>
   <li>The "O" and "|" on electrical devices actually denote 0 (off) and 1 (on) in binary</li>
   <li>The first computer bug was a moth</li>
-  <li>I still have some days that I don't believe in the Monty Hall Problem</li>
+  <li>I still have some days that I need to be reconvinced about the Monty Hall Problem</li>
   </ol>
         
  <br>
