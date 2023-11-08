@@ -1,5 +1,5 @@
 ### Hello All!
-  My name is Jacob Libby and I am a recent graduate from Wheaton College in Norton Massachusetts. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
+  My name is Jacob Libby and I recently worked at N1 Health as an Associate Data Ops Engineer. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
 
  - Pronouns: he/him/his
  - I’m currently 🌱 learning Ruby & React and am planning a D&D campaign, 🤿 diving deeper into creating a Python course, and 🚶exploring radio technology and performing data analyses in my free time
