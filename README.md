@@ -1,8 +1,8 @@
 ### Hello All!
-  My name is Jacob Libby and I recently worked at N1 Health as an Associate Data Ops Engineer. I am hoping to spend more time working on passion projects and expanding my knowledge in Cybersecurity, Machine Learning, and Full-stack Development.
+  My name is Jacob Libby and I recently worked at N1 Health as an Associate Data Ops Engineer. I am hoping to spend more time working on full-stack passion projects and expanding my knowledge in Embedded Programming and React.
 
  - Pronouns: he/him/his
- - I’m currently 🌱 learning Ruby & React and am planning a D&D campaign, 🤿 diving deeper into creating a Python course, and 🚶exploring radio technology and performing data analyses in my free time
+ - I’m currently 🌱 enrolled in a Performance Engineering Course through MIT and am planning a D&D campaign, 🤿 diving deeper into JavaScript and React, and 🚶exploring radio technology, data analysis and hiking in my free time
  - ⚡Fun Facts (about the world and Jacob) ⚡:
 <ol>
   <li>The "O" and "|" on electrical devices actually denote 0 (off) and 1 (on) in binary</li>
