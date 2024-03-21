@@ -17,7 +17,7 @@
         
  <br>
  
- <b>📫 Please feel free to reach out via email: jacobmlibby{at}gmail{dot}com </b>
+ <b>📫 Please feel free to reach out via email: jacobmlibby@gmail.com </b>
 
 <!--
 **JacobLibby/JacobLibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
